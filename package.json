@@ -1,6 +1,6 @@
 {
   "name": "root",
-  "version":"3.8.0.5",
+  "version":"3.8.0",
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "build": "lerna run build --scope=esinstall --scope=snowpack --scope=skypack",

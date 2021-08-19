@@ -1,6 +1,6 @@
 {
   "name": "root",
-  "version":"fix-circular-dev-install",
+  "version":"3.8.0.5",
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "build": "lerna run build --scope=esinstall --scope=snowpack --scope=skypack",
